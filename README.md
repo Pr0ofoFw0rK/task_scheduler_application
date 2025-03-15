@@ -3,6 +3,9 @@ This is a Python-based Task Scheduler application that allows users to schedule 
 
 The GUI is built using `PyQt5`, and the CLI is implemented using the `click` library. The application supports scheduling tasks with a specified interval and duration, and it also allows users to browse for executable files or scripts to schedule.
 
+![task-scheduler-application-GUI](https://github.com/Pr0ofoFw0rK/task_scheduler_application/blob/main/photo.png?raw=true)
+
+This project does amazing things...
 ---
 
 Features
