@@ -68,12 +68,12 @@ Version
 
 ---
 
-License
+License:
 This project is open-source and available under the MIT License.
 
 ---
 
-Author
+Author:
 Pr0ofoFw0rK
 
 ---
